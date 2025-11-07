@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 
 # Configure page
 st.set_page_config(
-    page_title="AI Cyber Intrusion Detection",
+    page_title="AI Fraud Detection (Network)",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
